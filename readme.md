@@ -1,7 +1,7 @@
 # [Symfony Con - Madrid 2014](http://madrid2014.symfony.com/) talks
 
 - All talks are in **english**.
-- No joind.in available yet
+- Comment and rate talks on [joind.in](http://joind.in/event/view/2641)
 
 ## Keynote
 
