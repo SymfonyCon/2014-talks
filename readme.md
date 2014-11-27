@@ -53,7 +53,7 @@ By [Marc Morera](https://connect.sensiolabs.com/profile/mmoreram)
   <dd>No BDD, TDD or SOLID here. No best practices for class naming. No arguing about tabs vs. spaces or vim vs. emacs. Jordi will present a few ways to become a better developer by getting better with the non-coding skills our jobs require. Skills like empathy, pragmatism and being human.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slides.seld.be/?file=2014-11-27+Five+Weird+Tricks+to+Become+a+Better+Developer.html)  
 ~~Video~~
 
 By [Jordi Boggiano](https://connect.sensiolabs.com/profile/seldaek)  
