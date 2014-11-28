@@ -291,7 +291,7 @@ By [Paweł Jędrzejewski](https://connect.sensiolabs.com/profile/pjedrzejewski)
   <dd>Thanks to Composer and Symfony, we all realize the advantages of single purpose libraries that solve specific problems. However, when it comes to eCommerce, there are few such libraries. eCommerce projects tend to be monolithic applications. Every few years we start over with a new technology stack, but we keep repeating the same mistakes with taxes, pricing, payments, addresses, etc. Our knowledge resets. How can we build a knowledge base of best practices? What reusable code can we publish? This session will provide an overview of some problems that we believe can be solved by abstract libraries: * Currency handling * Price management and complex pricing * Tax handling and the interaction between taxes and discounts * Address input and formatting * Payment processing We’ll then demonstrate the libraries Commerce Guys is publishing that we will use to power Drupal Commerce 2.x, the next version of the popular Drupal eCommerce module suite with more than 45,000 live sites.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://bojanz.github.io/commerce-libraries/)  
 ~~Video~~
 
 By [Bojan Zivanovic](https://connect.sensiolabs.com/profile/bojanz)  
