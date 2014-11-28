@@ -180,7 +180,7 @@ By [Alessandro Nadalin](https://connect.sensiolabs.com/profile/odino)
   <dd>In this talk you will learn how we used Varnish to provide a 100x increase in the throughput of our site, clippingbook.com. We will learn how to install varnish and how to configure it to work correclty alongside Symfony, including: - How to handle logged in and not logged in users - Using ESI - Caching for different devices - Deciding what to cache and what not and how to configure Symfony for this.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slideshare.net/barelon/making-symofny-shine-with-varnish-symfonycon-madrid-2014)  
 ~~Video~~
 
 By [Carlos Granados](https://connect.sensiolabs.com/profile/barelon)  
