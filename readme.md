@@ -116,7 +116,7 @@ By [Yevhen Shyshkin](https://connect.sensiolabs.com/profile/yshyshkin)
   <dd>Web applications are becoming increasingly more complex, so deployment is not just transferring files with FTP anymore. We will go over the different challenges and how to deploy our PHP applications effectively, safely and consistently with the latest tools and techniques. We will also look at tools that complement deployment with management, configuration and monitoring.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slideshare.net/pgodel/symfonycon-madrid-2014-rock-solid-deployment-of-symfony-apps)  
 ~~Video~~
 
 By [Pablo Godel](https://connect.sensiolabs.com/profile/pgodel)  
