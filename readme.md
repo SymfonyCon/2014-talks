@@ -243,7 +243,7 @@ By [Jen Lampton](https://connect.sensiolabs.com/profile/jenlampton)
   <dd>Big Data is one of the new buzzwords in the industry. Everyone is using NoSQL databases. MySQL is not cool anymore. But... do we really have big data? Where should we store it? Are the traditional RDBMS databases dead? Is NoSQL the solution to our problems? And most importantly, how can PHP and Symfony2 help with it?</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://www.slideshare.net/ricardclau/big-data-great-now-what-symfonycon-2014)  
 ~~Video~~
 
 By [Ricard Clau](https://connect.sensiolabs.com/profile/ricardclau)  
