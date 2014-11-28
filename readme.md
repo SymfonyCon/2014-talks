@@ -449,6 +449,6 @@ By [Matthieu Moquet](https://connect.sensiolabs.com/profile/mattketmo)
 
 [Slides](https://speakerdeck.com/michaelcullum/7-tips-in-7-minutes-for-converting-legacy-websites-to-modern-symfony-apps)
 
-By Michael Cullum
-![github](icon/github.png) [@michaelcullum](https://github.com/michaelcullum)  
+By Michael Cullum      
+![github](icon/github.png) [@michaelcullum](https://github.com/michaelcullum)       
 ![twitter](icon/twitter.png) [@michaelcullumuk](https://twitter.com/michaelcullumuk)
