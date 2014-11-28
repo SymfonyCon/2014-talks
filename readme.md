@@ -307,7 +307,7 @@ By [Bojan Zivanovic](https://connect.sensiolabs.com/profile/bojanz)
   <dd>Some of you may have heard about mysqlnd. I personnally gave it a try and stepped deep into its heart. Here, I'll show you what mysqlnd can do for you, mainly how it can powerfuly decrease memory consumption when retrieving datasets, how it can hint you about wrong but working queries from PHP side, and how you can plug in additionnal code to turn this extension to an even more useful tool. We're gonna be hooked between MySQL and PHP to see and analyze whatever transits</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slideshare.net/jpauli/mysqlnd)  
 ~~Video~~
 
 By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)  
