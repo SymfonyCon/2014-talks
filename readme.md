@@ -340,7 +340,8 @@ By [Grégoire Hubert](https://connect.sensiolabs.com/profile/gregoire)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+~~Video~~  
+[Example on GitHub](https://github.com/dzuelke/symfonycon2014-raffle)
 
 By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)  
 ![github](icon/github.png) [@dzuelke](https://github.com/dzuelke)  
