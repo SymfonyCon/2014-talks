@@ -196,7 +196,7 @@ By [Carlos Granados](https://connect.sensiolabs.com/profile/barelon)
   <dd>Heard about PHPSpec? Well its PHP object mocking framework called Prophecy is quite nice. We'll discover its API, similarities and improvements regarding the one from PHPUnit. Finally, we'll take a look at the integration of Prophecy in PHPSpec.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/saro0h/symfonycon-madrid-2014-php-object-mocking-framework-world)  
+~~Slides~~  
 ~~Video~~
 
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
@@ -444,3 +444,11 @@ By [Juampy Novillo Requena](https://connect.sensiolabs.com/profile/fabpot)
 By [Matthieu Moquet](https://connect.sensiolabs.com/profile/mattketmo)  
 ![github](icon/github.png) [@MattKetmo](https://github.com/MattKetmo)  
 ![twitter](icon/twitter.png) [@MattKetmo](https://twitter.com/MattKetmo)
+
+## 7 Tips in 7 Minutes for convering a legacy website to a modern symfony app
+
+[Slides](https://speakerdeck.com/michaelcullum/7-tips-in-7-minutes-for-converting-legacy-websites-to-modern-symfony-apps)
+
+By Michael Cullum
+![github](icon/github.png) [@michaelcullum](https://github.com/michaelcullum)  
+![twitter](icon/twitter.png) [@michaelcullumuk](https://twitter.com/michaelcullumuk)
