@@ -356,7 +356,7 @@ By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)
   <dd>Among all the C libraries bindings PHP offers, there is one for FANN: Fast Artificial Neural Network (libfann). With it you can easily create a neural Network with different activation functions for each neuron/ layer. ANNs (Artificial Neural Networks) are used for machine learning and for recommendation systems. In this Talk we will show an implementation (and running demo) of a basic IA that will learn to play Tic Tac Toe leveraging the Symfony console componente as UI While we demo, we will show a detailed log of what is going on.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slideshare.net/aferrandini/artificial-neural-network-in-a-tic-tac-toe-symfony-console-application-symfonycon-2014)  
 ~~Video~~
 
 By [Eduardo Gulias](https://connect.sensiolabs.com/profile/egulias)  
