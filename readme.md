@@ -448,8 +448,9 @@ By [Matthieu Moquet](https://connect.sensiolabs.com/profile/mattketmo)
 
 ## 7 Tips in 7 Minutes for convering a legacy website to a modern symfony app
 
-[Slides](https://speakerdeck.com/michaelcullum/7-tips-in-7-minutes-for-converting-legacy-websites-to-modern-symfony-apps)
+[Slides](https://speakerdeck.com/michaelcullum/7-tips-in-7-minutes-for-converting-legacy-websites-to-modern-symfony-apps)  
+~~Video~~
 
-By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)      
-![github](icon/github.png) [@michaelcullum](https://github.com/michaelcullum)       
+By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)  
+![github](icon/github.png) [@michaelcullum](https://github.com/michaelcullum)  
 ![twitter](icon/twitter.png) [@michaelcullumuk](https://twitter.com/michaelcullumuk)
