@@ -421,23 +421,6 @@ With [Grégoire Hubert](https://connect.sensiolabs.com/profile/gregoire)
 
 ---
 
-## Building an API for your content with Drupal 8
-
-<dl>
-  <dt>Description</dt>
-  <dd>Drupal 8 has a broad set of tools to help you create an API to expose your data and then consume it with Symfony. In this session we will review each of them with practical examples. Here are some of the topics that we will cover: * The REST module. How to read, modify and delete entities. * How to test requests: cURL, Guzzle and browser extensions. * Building listings with Views REST exports. * Protecting our API with authentication. * Debugging tools. * TODOs, current limitations and follow-up work to make this rock.</dd>
-</dl>
-
-~~Slides~~  
-~~Video~~
-
-By [Juampy Novillo Requena](https://connect.sensiolabs.com/profile/fabpot)  
-![github](icon/github.png) [@juampy72](https://github.com/juampy72)  
-![twitter](icon/twitter.png) [@juampy72](https://twitter.com/juampy72)
-
-
----
-
 ---
 
 ---
