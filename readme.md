@@ -425,3 +425,22 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
 By [Juampy Novillo Requena](https://connect.sensiolabs.com/profile/fabpot)  
 ![github](icon/github.png) [@juampy72](https://github.com/juampy72)  
 ![twitter](icon/twitter.png) [@juampy72](https://twitter.com/juampy72)
+
+
+---
+
+---
+
+---
+
+# Lightning Talks
+
+## Localization should not be a pain (anymore)
+
+[Slides](http://moquet.net/talks/symfonycon-2014/)  
+~~Video~~  
+[Project on GitHub](https://github.com/openl10n)
+
+By [Matthieu Moquet](https://connect.sensiolabs.com/profile/mattketmo)  
+![github](icon/github.png) [@MattKetmo](https://github.com/MattKetmo)  
+![twitter](icon/twitter.png) [@MattKetmo](https://twitter.com/MattKetmo)
