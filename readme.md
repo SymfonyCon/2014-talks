@@ -411,6 +411,14 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
 ![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
 ![twitter](icon/twitter.png) [@fabpot](https://twitter.com/fabpot)
 
+And [Nicolas Gregas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
+![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
+![twitter](icon/twitter.png) [@nicolasgrekas](https://twitter.com/nicolasgrekas)
+
+With [Grégoire Hubert](https://connect.sensiolabs.com/profile/gregoire)  
+![github](icon/github.png) [@chanmix51](https://github.com/chanmix51)  
+![twitter](icon/twitter.png) [@chanmix51](https://twitter.com/chanmix51)
+
 ---
 
 ## Building an API for your content with Drupal 8
