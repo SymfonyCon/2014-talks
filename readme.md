@@ -21,7 +21,7 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
   <dd>Did you ever want to toggle a feature of your application on and off? Or test a new functionality with just a subgroup of users? It is ridiculously simple to implement feature flags with Symfony's dependency injection container. This talk will introduce you to the different kinds of feature flags and show you how to implement them with Dependency Injection.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://qafoo.com/talks/14_11_symfonycon_madrid_feature_flags_with_symfony.pdf)  
 ~~Video~~
 
 By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)  
