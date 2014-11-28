@@ -259,7 +259,7 @@ By [Ricard Clau](https://connect.sensiolabs.com/profile/ricardclau)
   <dd>Assetic is a great tool. It helps us build our SASS and LESS files and minimises our JavaScript. But with Assetic we still have to do a lot of manual work. There are better ways to automate our frontend workflow. With Gulp and Bower, we can ditch Assetic and get to grips with the latest and greatest. We will go through how to automate and optimise our Symfony2 frontend workflow in a more efficient manner than we have ever done before.“</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/michellesanver/life-after-assetic-state-of-the-art-symfony-2-frontend-dev)  
 ~~Video~~
 
 By [Michelle Sanver](https://connect.sensiolabs.com/profile/michellesanver)  
