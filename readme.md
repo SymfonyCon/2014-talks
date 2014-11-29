@@ -372,7 +372,7 @@ By [Eduardo Gulias](https://connect.sensiolabs.com/profile/egulias)
   <dd>Software engineering is a measurable art. At some point or another, most developers have come across code that elicited feelings of approval or disgust; however, "clean code" can be more than a matter of opinion. We can measure it! This session will explore the spectrum of object calisthenics, software metrics, and tools that we can employ to help us create beautiful software.</dd>
 </dl>
 
-[Slides](http://jmikola.github.io/slides/beautiful_measurable_software/)  
+[Slides](https://speakerdeck.com/jmikola/developing-beautiful-measurable-software)  
 ~~Video~~
 
 By [Jeremy Mikola](https://connect.sensiolabs.com/profile/jmikola)  
