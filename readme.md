@@ -388,7 +388,7 @@ By [Jeremy Mikola](https://connect.sensiolabs.com/profile/jmikola)
   <dd>Le app mobile al giorno d’oggi sono molto comuni. Spesso queste applicazioni non possono contare su una connessione ad internet costante: la possibilità di lavorare in modalità offilne sta diventanti sempre più comune. In questo caso di studio vedremo una possibile implementazione di una architettura che abiliti la sincronizzazione dei dati creati in modalità offline. Today mobile apps are everywhere. These apps cannot count on a reliable and constant internet connection: working in offline mode is becoming a common pattern. This is quite easy for read-only apps but it becomes rapidly tricky for apps that create data in offline mode. This talk is a case study about a possible architecture for enabling data synchronization in these situations. Some of the topics touched will be: - id generation - hierarchical data - managing differente data types - sync algorithm</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slideshare.net/MicheleOrselli/server-side-data-sync-sfcon)  
 ~~Video~~
 
 By [Michele Orselli](https://connect.sensiolabs.com/profile/orso)  
