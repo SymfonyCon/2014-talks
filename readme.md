@@ -323,7 +323,7 @@ By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)
   <dd>While other scripting languages are racing at supporting Postgresql features, with the Pomm object model manager, PHP already supports them all. During this session we will see how Postgresql with its rich type set and operators can shape data structures in application's model layer. How it is possible to send events in the database to triggers detached processes and how to integrate schemaless components in a strongly typed relationnal database.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://www.pomm-project.org/slides/madrid2014/index.html)  
 ~~Video~~
 
 By [Grégoire Hubert](https://connect.sensiolabs.com/profile/gregoire)  
