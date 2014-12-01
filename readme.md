@@ -37,8 +37,9 @@ By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)
   <dd>Elcodi is a suite of bundles for Symfony2 which aim to help developers build and quickly scale e-commerce websites. It is written in a clean, straightforward way to ease and smooth the learning curve and it promotes development productivity, SOLID, DRY principles without adding too many layers of indirection. Some of the goals we think we've reached: Balance between flexibility and development speed, Reusable components and foundations for writing custom Model. We'd like to share some insights on how we are approaching those topics by using rigorous coding standards, enforcing coherence and loose coupling, aiming for comprehensible and self-explaining code. See how you can leverage Symfony components for addressing similar challenges and let's discuss the rationales behind some good practices. And above all, see how to do it without pain, because we think that coding should always be a pleasure and crafting developer-friendly software is in our DNA!</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](http://www.slideshare.net/zimage/elcodi-symfoyn-con-pdf/1)  
+[Code](https://github.com/elcodi/symfonycon-demo)  
+~~Video~~  
 
 By [Marc Morera](https://connect.sensiolabs.com/profile/mmoreram)  
 ![github](icon/github.png) [@mmoreram](https://github.com/mmoreram)  
@@ -69,8 +70,8 @@ By [Jordi Boggiano](https://connect.sensiolabs.com/profile/seldaek)
   <dd>In almost all of the applications we create in our day to day lives we work with filesystems. These days it's not just our local filesystem anymore. It's AWS S3, Dropbox, (S)FTP, or any other cloud filesystem provider. They all have their pros and cons. In this talk we’ll go into several aspects of choosing and working with filesystems and how Flysystem helps you out in this process. We'll go over: technical debt, separation of concerns, domain vs implementation and how using an abstract filesystem can help you be flexible.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](http://slideshare.net/ikbenfrankdejonge/abstract-filesystems-with-flysystem)  
+~~Video~~  
 
 By [Frank de Jonge](https://connect.sensiolabs.com/profile/frenkynet)  
 ![github](icon/github.png) [@FrenkyNet](https://github.com/FrenkyNet)  
