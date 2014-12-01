@@ -149,7 +149,7 @@ By [Kim Ausloos](https://connect.sensiolabs.com/profile/kimausloos)
   <dd>This talk will make a quick overview of tips, tricks and code snippets for developers using Symfony and all its ecosystem, from Monolog to Doctrine. Learn how to become more productive and discover some rarely used options and features.</dd>
 </dl>
 
-[Slides](http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks)
+[Slides](http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks)  
 ~~Video~~
 
 By [Javier Eguiluz](https://connect.sensiolabs.com/profile/javier.eguiluz)  
