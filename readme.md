@@ -70,7 +70,7 @@ By [Jordi Boggiano](https://connect.sensiolabs.com/profile/seldaek)
   <dd>In almost all of the applications we create in our day to day lives we work with filesystems. These days it's not just our local filesystem anymore. It's AWS S3, Dropbox, (S)FTP, or any other cloud filesystem provider. They all have their pros and cons. In this talk we’ll go into several aspects of choosing and working with filesystems and how Flysystem helps you out in this process. We'll go over: technical debt, separation of concerns, domain vs implementation and how using an abstract filesystem can help you be flexible.</dd>
 </dl>
 
-~~Slides~~  
+(Slides)[slideshare.net/ikbenfrankdejonge/abstract-filesystems-with-flysystem]
 ~~Video~~
 
 By [Frank de Jonge](https://connect.sensiolabs.com/profile/frenkynet)  
