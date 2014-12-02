@@ -276,7 +276,7 @@ By [Michelle Sanver](https://connect.sensiolabs.com/profile/michellesanver)
   <dd>Introduction of Symfony powered e-commerce framework for PHP. What is Sylius and how can it help all Symfony developers with their next online selling platform. How Sylius leverages Symfony2 flexibility to provide next-generation online-selling platform and why Symfony is the best choice for modern e-commerce.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/pjedrzejewski/sylius-e-commerce-for-symfony2)
 ~~Video~~
 
 By [Paweł Jędrzejewski](https://connect.sensiolabs.com/profile/pjedrzejewski)  
