@@ -170,7 +170,7 @@ By [Javier Eguiluz](https://connect.sensiolabs.com/profile/javier.eguiluz)
 
 By [Alessandro Nadalin](https://connect.sensiolabs.com/profile/odino)  
 ![github](icon/github.png) [@odino](https://github.com/odino)  
-![twitter](icon/twitter.png) [@_odino_](https://twitter.com/_odino_)
+![twitter](icon/twitter.png) [@\_odino_](https://twitter.com/_odino_)
 
 ---
 
