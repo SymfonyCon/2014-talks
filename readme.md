@@ -230,7 +230,7 @@ By [Jen Lampton](https://connect.sensiolabs.com/profile/jenlampton)
 </dl>
 
 [Slides](http://www.slideshare.net/ricardclau/big-data-great-now-what-symfonycon-2014)  
-Video
+~~Video~~
 
 By [Ricard Clau](https://connect.sensiolabs.com/profile/ricardclau)  
 ![github](icon/github.png) [@ricardclau](https://github.com/ricardclau)  
