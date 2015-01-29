@@ -6,7 +6,7 @@
 ## Keynote
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/De6uKjvNaBk)
 
 By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
 ![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
@@ -22,7 +22,7 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
 </dl>
 
 [Slides](http://qafoo.com/talks/14_11_symfonycon_madrid_feature_flags_with_symfony.pdf)  
-~~Video~~
+[Video](http://youtu.be/KJKSCbYrNvY)
 
 By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)  
 ![github](icon/github.png) [@beberlei](https://github.com/beberlei)  
@@ -38,7 +38,7 @@ By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)
 </dl>
 
 [Slides](http://www.slideshare.net/zimage/elcodi-symfoyn-con-pdf)  
-~~Video~~  
+[Video](http://youtu.be/luNeSIemhxY)  
 [Example on GitHub](https://github.com/elcodi/symfonycon-demo)
 
 By [Marc Morera](https://connect.sensiolabs.com/profile/mmoreram)  
@@ -55,7 +55,7 @@ By [Marc Morera](https://connect.sensiolabs.com/profile/mmoreram)
 </dl>
 
 [Slides](http://slides.seld.be/?file=2014-11-27+Five+Weird+Tricks+to+Become+a+Better+Developer.html)  
-~~Video~~
+[Video](http://youtu.be/1p6Xv3khW4o)
 
 By [Jordi Boggiano](https://connect.sensiolabs.com/profile/seldaek)  
 ![github](icon/github.png) [@Seldaek](https://github.com/Seldaek)  
@@ -71,7 +71,7 @@ By [Jordi Boggiano](https://connect.sensiolabs.com/profile/seldaek)
 </dl>
 
 [Slides](http://slideshare.net/ikbenfrankdejonge/abstract-filesystems-with-flysystem)  
-~~Video~~  
+[Video](http://youtu.be/nKmugm5GkuE)
 
 By [Frank de Jonge](https://connect.sensiolabs.com/profile/frenkynet)  
 ![github](icon/github.png) [@FrenkyNet](https://github.com/FrenkyNet)  
@@ -87,7 +87,7 @@ By [Frank de Jonge](https://connect.sensiolabs.com/profile/frenkynet)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/iAJg49ldDg0)
 
 By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)  
 ![github](icon/github.png) [@weaverryan](https://github.com/weaverryan)  
@@ -103,7 +103,7 @@ By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/-7WTYiDdIKk)
 
 By [Yevhen Shyshkin](https://connect.sensiolabs.com/profile/yshyshkin)  
 ![github](icon/github.png) [@yshyshkin](https://github.com/yshyshkin)
@@ -118,7 +118,7 @@ By [Yevhen Shyshkin](https://connect.sensiolabs.com/profile/yshyshkin)
 </dl>
 
 [Slides](http://slideshare.net/pgodel/symfonycon-madrid-2014-rock-solid-deployment-of-symfony-apps)  
-~~Video~~
+[Video](http://youtu.be/rRchCYm0K0M)
 
 By [Pablo Godel](https://connect.sensiolabs.com/profile/pgodel)  
 ![github](icon/github.png) [@pgodel](https://github.com/pgodel)  
@@ -134,7 +134,7 @@ By [Pablo Godel](https://connect.sensiolabs.com/profile/pgodel)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/RM4pumTUbvk)
 
 By [Kim Ausloos](https://connect.sensiolabs.com/profile/kimausloos)  
 ![github](icon/github.png) [@kimausloos](https://github.com/kimausloos)
@@ -150,7 +150,7 @@ By [Kim Ausloos](https://connect.sensiolabs.com/profile/kimausloos)
 </dl>
 
 [Slides](http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks)  
-~~Video~~
+[Video](http://youtu.be/B8Sbo-JxKMo)
 
 By [Javier Eguiluz](https://connect.sensiolabs.com/profile/javier.eguiluz)  
 ![github](icon/github.png) [@javiereguiluz](https://github.com/javiereguiluz)  
@@ -166,7 +166,7 @@ By [Javier Eguiluz](https://connect.sensiolabs.com/profile/javier.eguiluz)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/dM8y_vmfRE8)
 
 By [Alessandro Nadalin](https://connect.sensiolabs.com/profile/odino)  
 ![github](icon/github.png) [@odino](https://github.com/odino)  
@@ -182,7 +182,7 @@ By [Alessandro Nadalin](https://connect.sensiolabs.com/profile/odino)
 </dl>
 
 [Slides](http://slideshare.net/barelon/making-symofny-shine-with-varnish-symfonycon-madrid-2014)  
-~~Video~~
+[Video](http://youtu.be/FS5iKpm-CbM)
 
 By [Carlos Granados](https://connect.sensiolabs.com/profile/barelon)  
 ![github](icon/github.png) [@carlos-granados](https://github.com/carlos-granados)  
@@ -198,26 +198,11 @@ By [Carlos Granados](https://connect.sensiolabs.com/profile/barelon)
 </dl>
 
 [Slides](https://speakerdeck.com/saro0h/symfonycon-madrid-2014-php-object-mocking-framework-world)  
-~~Video~~
+[Video](http://youtu.be/kA8zkahVol4)
 
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
 ![github](icon/github.png) [@saro0h](https://github.com/saro0h)  
 ![twitter](icon/twitter.png) [@Saro0h](https://twitter.com/Saro0h)
-
----
-
-## Jeopardy
-
-<dl>
-  <dt>Description</dt>
-  <dd>Please phrase your answers in the form of a question?</dd>
-</dl>
-
-~~Video~~
-
-By [Jeremy Mikola](https://connect.sensiolabs.com/profile/jmikola)  
-![github](icon/github.png) [@jmikola](https://github.com/jmikola)  
-![twitter](icon/twitter.png) [@jmikola](https://twitter.com/jmikola)
 
 ---
 
@@ -229,7 +214,7 @@ By [Jeremy Mikola](https://connect.sensiolabs.com/profile/jmikola)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/ql3SzHyqeyU)
 
 By [Jen Lampton](https://connect.sensiolabs.com/profile/jenlampton)  
 ![github](icon/github.png) [@jenlampton](https://github.com/jenlampton)  
@@ -245,7 +230,7 @@ By [Jen Lampton](https://connect.sensiolabs.com/profile/jenlampton)
 </dl>
 
 [Slides](http://www.slideshare.net/ricardclau/big-data-great-now-what-symfonycon-2014)  
-~~Video~~
+Video
 
 By [Ricard Clau](https://connect.sensiolabs.com/profile/ricardclau)  
 ![github](icon/github.png) [@ricardclau](https://github.com/ricardclau)  
@@ -261,7 +246,7 @@ By [Ricard Clau](https://connect.sensiolabs.com/profile/ricardclau)
 </dl>
 
 [Slides](https://speakerdeck.com/michellesanver/life-after-assetic-state-of-the-art-symfony-2-frontend-dev)  
-~~Video~~
+[Video](http://youtu.be/B7M7NzSUixs)
 
 By [Michelle Sanver](https://connect.sensiolabs.com/profile/michellesanver)  
 ![github](icon/github.png) [@michellesanver](https://github.com/michellesanver)  
@@ -277,7 +262,7 @@ By [Michelle Sanver](https://connect.sensiolabs.com/profile/michellesanver)
 </dl>
 
 [Slides](https://speakerdeck.com/pjedrzejewski/sylius-e-commerce-for-symfony2)  
-~~Video~~
+[Video](http://youtu.be/Lr8meuMPYpQ)
 
 By [Paweł Jędrzejewski](https://connect.sensiolabs.com/profile/pjedrzejewski)  
 ![github](icon/github.png) [@pjedrzejewski](https://github.com/pjedrzejewski)  
@@ -293,7 +278,7 @@ By [Paweł Jędrzejewski](https://connect.sensiolabs.com/profile/pjedrzejewski)
 </dl>
 
 [Slides](http://bojanz.github.io/commerce-libraries/)  
-~~Video~~
+[Video](http://youtu.be/3GQCcua_qTU)
 
 By [Bojan Zivanovic](https://connect.sensiolabs.com/profile/bojanz)  
 ![github](icon/github.png) [@bojanz](https://github.com/bojanz)  
@@ -301,7 +286,7 @@ By [Bojan Zivanovic](https://connect.sensiolabs.com/profile/bojanz)
 
 ---
 
-## mysqlnd, an unknown powerful extension
+## MySQLnd, an unknown powerful extension
 
 <dl>
   <dt>Description</dt>
@@ -309,7 +294,7 @@ By [Bojan Zivanovic](https://connect.sensiolabs.com/profile/bojanz)
 </dl>
 
 [Slides](http://slideshare.net/jpauli/mysqlnd)  
-~~Video~~
+[Video](http://youtu.be/sjqyuaBr4YA)
 
 By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)  
 ![github](icon/github.png) [@jpauli](https://github.com/jpauli)  
@@ -325,7 +310,7 @@ By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)
 </dl>
 
 [Slides](http://www.pomm-project.org/slides/madrid2014/index.html)  
-~~Video~~
+[Video](http://youtu.be/l0IY0vO07zQ)
 
 By [Grégoire Hubert](https://connect.sensiolabs.com/profile/gregoire)  
 ![github](icon/github.png) [@chanmix51](https://github.com/chanmix51)  
@@ -341,7 +326,7 @@ By [Grégoire Hubert](https://connect.sensiolabs.com/profile/gregoire)
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](http://youtu.be/hI4mJv9oCQg)  
 [Example on GitHub](https://github.com/dzuelke/symfonycon2014-raffle)
 
 By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)  
@@ -358,7 +343,7 @@ By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)
 </dl>
 
 [Slides](http://slideshare.net/aferrandini/artificial-neural-network-in-a-tic-tac-toe-symfony-console-application-symfonycon-2014)  
-~~Video~~
+[Video](http://youtu.be/ojmIwOq-aBU)
 
 By [Eduardo Gulias](https://connect.sensiolabs.com/profile/egulias)  
 ![github](icon/github.png) [@egulias](https://github.com/egulias)  
@@ -374,7 +359,7 @@ By [Eduardo Gulias](https://connect.sensiolabs.com/profile/egulias)
 </dl>
 
 [Slides](https://speakerdeck.com/jmikola/developing-beautiful-measurable-software)  
-~~Video~~
+[Video](http://youtu.be/_Z6jobx1d58)
 
 By [Jeremy Mikola](https://connect.sensiolabs.com/profile/jmikola)  
 ![github](icon/github.png) [@jmikola](https://github.com/jmikola)  
@@ -390,7 +375,7 @@ By [Jeremy Mikola](https://connect.sensiolabs.com/profile/jmikola)
 </dl>
 
 [Slides](http://slideshare.net/MicheleOrselli/server-side-data-sync-sfcon)  
-~~Video~~
+[Video](http://youtu.be/QN3t8es7bME)
 
 By [Michele Orselli](https://connect.sensiolabs.com/profile/orso)  
 ![github](icon/github.png) [@micheleorselli](https://github.com/micheleorselli)  
